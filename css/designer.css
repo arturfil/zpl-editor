@@ -1,14 +1,14 @@
 .designerUtilityWindow {
 	position: absolute !important;
 	width: 220px;
-	border: 2px solid #AA0000;
+	border: 2px solid rgb(24, 23, 23);
 	border-radius: 4px;
 }
 
 .designerUtilityToolbar {
 	position: absolute !important;
 	width: 80px;
-	border: 2px solid #AA0000;
+	border: 2px solid rgb(24, 23, 23);
 	border-radius: 4px;
 }
 
@@ -21,7 +21,7 @@
 	height: 140px;
 	overflow: hidden;
 	background: #EEEEEE;
-	border-top: 1px solid #AA0000;
+	border-top: 1px solid rgb(24, 23, 23);
 	padding-bottom: 15px;
 }
 
@@ -36,7 +36,7 @@
 	height: 300px;
 	overflow-y: hidden;
 	overflow-x: hidden;
-	background: #FFFFFF;
+	background: #FFFFFF	;
 }
 
 .designerLabelContent {
@@ -59,7 +59,7 @@
 }
 
 .designerPropertyTitle {
-	background: #F0B7A1;
+	background: rgb(79, 193, 238);
 	font-size: 12px;
 	font-weight: bold;
 	padding: 5px;
